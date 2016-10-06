@@ -12,7 +12,7 @@ import app.entity.*;
 
 
 /**
- * Classe que representa a camada de negócios de CidadeBusiness
+ * Classe que representa a camada de negócios de CidadeBusiness 2
  * 
  * @generated
  **/
