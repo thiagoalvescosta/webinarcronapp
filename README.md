@@ -1,7 +1,7 @@
 # SpringBoot 1234dsffgdfgssasdsadASs
 Aplicação Web com Spring e módulos: **Data** e **Security**.
 
-## Prérequisitos
+## Prérequisitoss
 
 1. Maven 3+
 2. Java 8+
